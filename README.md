@@ -3,7 +3,7 @@
 <h1 align="start">Hi, I'm Md Sabbir Hossen</h1>
 <h3 align="start">A passionate Software developer from Bangladesh</h3>
 
-<p> Hi, I am professional App Developer. I have four years of skills in I am an expert in Flutter, Java, PHP, Python,Django, DRF, html and CSS language.</p>
+<p> Hi, I am a professional App Developer. I have four years of skills in I am an expert in Flutter, Java, PHP, Python,Django, DRF, html and CSS language.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbircse499&label=Profile%20views&color=0e75b6&style=flat" alt="sabbircse499" /> </p>
 
