@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://sabbirhossen.vercel.app/](https://sabbirhossen.vercel.app/)
 
-- 💬 Ask me about **Flutter , Django**
+- 💬 Ask me about ** Dart, Flutter, Python,  Django Rest Framework**
 
 - 📫 How to reach me **sabbirnubcse@gmail.com**
 
