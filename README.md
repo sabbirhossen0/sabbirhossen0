@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on **Dhakamart**
 
-- if you 
-
 - 🌱 I’m currently learning **Django,WebRTC**
 
 - 🤝 I’m looking for help with **Programming Learning**
