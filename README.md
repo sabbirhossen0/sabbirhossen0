@@ -2,7 +2,7 @@
 <a align="center" href="https://www.linkedin.com/in/sabbir-hossen-2755a5255/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi+I%27M+MOHAMMAD+SABBIR+HOSSEN" alt="Hi, I'm Md Sabbir Hossen" /></a>
 
 
-  <h3 style="margin: 0;">👨‍💻 A passionate Software Developer from Bangladesh %F0%9F%87%A7%F0%9F%87%A9</h3>
+  <h3 style="margin: 0;">👨‍💻 A passionate Software Developer from Bangladesh 1F1E7 1F1E9</h3>
 
 
 
