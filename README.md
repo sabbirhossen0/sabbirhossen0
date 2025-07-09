@@ -3,10 +3,10 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/ea392e67-b1dc-4e3c-878d-349059476606" alt="Your Photo" width="60" style="border-radius: 50%;">
-  <h3 style="margin: 0;">👨‍💻 A passionate Software Developer from Bangladesh 🇧🇩</h3>
+  <h3 style="margin: 0;">👨‍💻 A passionate Software Developer from Bangladesh</h3>
 </div>
 
-
+	\01f1e7\01f1e9
 
 
 
