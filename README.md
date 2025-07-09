@@ -1,9 +1,10 @@
 
 <a align="center" href="https://www.linkedin.com/in/sabbir-hossen-2755a5255/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi+I%27M+MOHAMMAD+SABBIR+HOSSEN" alt="Hi, I'm Md Sabbir Hossen" /></a>
 
-
-<h3 align="start">A passionate Software developer from Bangladesh ![image](https://github.com/user-attachments/assets/ea392e67-b1dc-4e3c-878d-349059476606)
-</h3>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/ea392e67-b1dc-4e3c-878d-349059476606" alt="Your Photo" width="60" style="border-radius: 50%;">
+  <h3 style="margin: 0;">👨‍💻 A passionate Software Developer from Bangladesh 🇧🇩</h3>
+</div>
 
 
 
