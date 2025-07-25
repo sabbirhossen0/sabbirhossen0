@@ -1,10 +1,6 @@
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mr-irtaza/mr-irtaza/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mr-irtaza/mr-irtaza/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mr-irtaza/mr-irtaza/output/github-snake.svg" />
-</picture>
+
 
 
 
@@ -20,6 +16,13 @@
 <p> Hi, I am a professional Cross-platform App Developer. I am an expert in  Dart, Python, C++, and MySQL language, also Flutter, Django, and Django Rest Framework.💫 A chef Who loves to cook visually appealing web applications with different technologies.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbircse499&label=Profile%20views&color=0e75b6&style=flat" alt="sabbircse499" /> </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mr-irtaza/mr-irtaza/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mr-irtaza/mr-irtaza/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mr-irtaza/mr-irtaza/output/github-snake.svg" />
+</picture>
+
 
 
 
