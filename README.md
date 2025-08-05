@@ -26,9 +26,9 @@
 
 
 
-- 🔭 I’m currently working on **Nafs shield, Nafs Tube**
+- 🔭 I’m currently working on **Crop Mentor, Nafs Tube**
 
-- 🌱 I’m currently learning **Django,WebRTC**
+- 🌱 I’m currently learning **Bloc,WebRTC**
 
 - 🤝 I’m looking for help with **Programming Learning**
 
